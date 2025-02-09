@@ -1,0 +1,14 @@
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.AssemblyInfoInputs.cache
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.AssemblyInfo.cs
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\bin\Debug\net9.0\MyGuessingGame.exe
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\bin\Debug\net9.0\MyGuessingGame.deps.json
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\bin\Debug\net9.0\MyGuessingGame.runtimeconfig.json
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\bin\Debug\net9.0\MyGuessingGame.dll
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\bin\Debug\net9.0\MyGuessingGame.pdb
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.dll
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\refint\MyGuessingGame.dll
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.pdb
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\MyGuessingGame.genruntimeconfig.cache
+C:\Users\SandisSmans\Documents\Uni_Programmesana II\MyGuessingGame\obj\Debug\net9.0\ref\MyGuessingGame.dll
